@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm James Morales 👋</h1>
+<h1 align="center">Hi there, I'm James Morales 👋</h1> 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JamesMorales04)
 
 ## :book: About Me
 - 🖥 Backend Developer - Game Developer - QA Automation.
@@ -64,6 +65,6 @@
    <a href="https://discord.gg/XnxrgGwRzy"><img alt="Discord - DarkFMJ#6444" title="Discord - DarkFMJ#6444" height="32" width="32" src="assets/discord.svg"></a>
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JamesMorales04)
+
 
 
