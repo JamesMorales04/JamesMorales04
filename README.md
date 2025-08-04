@@ -3,9 +3,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JamesMorales04)
 
 ## :book: About Me
-- 🖥 Backend Developer - Game Developer - QA Automation.
-- 🎓 Studying Computer Science at the EAFIT University.
-- ❤️ I love writing C# and Golang, and building video games.
+- 🖥 .NET Backend Developer - Fullstack in training with React + .NET.
+- 🎓 Graduated in Computer Science from Eafit University.
+- ❤️ I love writing code, design solutions, create video games, and use my programming skills to solve problems and create experiences..
 - :smile: I am open to work on interesting projects .
 
 ## ⚡ Technologies
@@ -31,14 +31,13 @@
 
 
 **Learning:**
-
 <p>
   <img alt="Go"
             src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Azure"
              src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img alt="Angular"
-             src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="React"
+             src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="TypeScript"
              src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
